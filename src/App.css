@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.crewmatePreview {
+  margin: 10px;
+  outline: 2px solid black;
+  background-color: rgb(174, 112, 225);
+}
+
+.blankCrewmate {
+  height: 100px;
+  width: auto;
+}
+
+.crewImage {
+  width: 500px;
+  height: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
